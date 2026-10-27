@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/demodg/:/"
+    "/content/demostageeds:/"
   ],
   "includes": [
-    "/content/demodg/"
+    "/content/demostageeds"
   ]
 }
